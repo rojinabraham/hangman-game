@@ -10,7 +10,7 @@ body {
   /* justify-content: center; */
   align-items: center;
   margin: 0;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 h1 {
   margin: 20px 0 0;
@@ -21,7 +21,7 @@ h1 {
   margin: auto;
   height: 350px;
   width: 450px;
-  border: 2px solid;
+  /* border: 2px solid; */
 }
 .figure-container {
   fill: transparent;
@@ -44,7 +44,7 @@ h1 {
   margin: 0 0 5px;
 }
 .wrong-letters-container span {
-  font-size: 25px;
+  font-size: 24px;
 }
 .word {
   display: flex;
@@ -78,7 +78,7 @@ h1 {
 .popup {
   background: #b33f6b;
   border-radius: 5px;
-  box-shadow: 0 15px 10px 3 px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 15px 10px 3px rgba(0, 0, 0, 0.1);
   padding: 20px;
   text-align: center;
 }
